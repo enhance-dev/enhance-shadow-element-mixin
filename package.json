@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/enhance-dev/enhance-shadow-element-mixin#readme",
   "devDependencies": {
-    "@enhance/base-element": "^1.1.0",
-    "@enhance/template-mixin": "^1.0.0",
+    "@enhance/base-element": "^1.3.2",
+    "@enhance/template-mixin": "^1.0.3",
     "@esm-bundle/chai": "^4.3.4-fix.0",
     "@web/test-runner": "^0.17.0",
     "@web/test-runner-playwright": "^0.10.1",
